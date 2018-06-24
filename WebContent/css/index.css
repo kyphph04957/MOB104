@@ -1,0 +1,184 @@
+.account{
+    background-color: #53c8e7;
+    height: 50px;
+    line-height: 47px;
+}
+
+.account i{
+    margin-left: 15px;
+    font-size: 35px;
+    line-height: 50px;
+}
+
+.account a{
+    font-weight: bold;
+}
+
+.dn{
+    color: #000000;
+    margin-left: 15px;
+}
+
+.dk{
+    color: #ce0808;
+    font-style: italic;
+}
+
+.dn:hover{
+    color: #000000;
+}
+
+.dk:hover{
+    color: #ce0808;
+}
+
+.modal-title{
+    text-transform: uppercase;
+}
+
+.header{
+    height: 100px;
+}
+
+.logo img{
+    height: 96px;
+    margin-top: 2px;
+}
+
+.hotline{
+    margin-top: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.cart a{
+    color: #000000;
+    font-weight: bold;
+}
+
+.cart a i{
+    font-size: 30px;
+    margin-top: 23px;
+}
+
+.cart a span{
+    margin-left: 5px;
+    text-transform: uppercase;
+}
+
+.menu{
+    height: 50px;
+    background-color: #f3f3f3;
+}
+
+.nav-item{
+    width: 190px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.nav-item:hover a{
+    text-decoration: underline;
+}
+
+.nav-link{
+    font-size: 20px;
+}
+
+.nav-link i{
+    font-size: 30px;
+    margin: 0;
+}
+
+.carousel-item img{
+    width: 1140px;
+    height: 427.5px;
+}
+
+/* .product-list{
+    margin-top: 30px;
+} */
+
+.product-div{
+    height: 420px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.product-div:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .25);
+}
+
+.product-div:hover img{
+    transform: scale(1.05);
+}
+
+.product-div img{
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.product-title{
+    height: 30px;
+    margin-top: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+}
+.product-price{
+    height: 30px;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #ce0808;
+    font-weight: bold;
+}
+
+.page-navigation nav{
+    margin: auto;
+}
+
+.footer{
+    height: 150px;
+    background-color: #53c8e7;
+}
+
+.logo-footer img{
+    height: 120px;
+    margin-top: 15px;
+}
+
+.info-footer{
+    margin-top: 25px;
+}
+
+.hotline-footer i{
+    font-size: 50px;
+    margin-top: 57px;
+}
+
+.hotline-footer span{
+    margin-left: 3px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+#carouselExampleIndicators{
+    width: 100%;
+}
+.product-infomation:hover{
+	text-decoration: none;
+}
+
+label.error{
+	color: red;
+	line-height: 20px;
+	padding-top: 5px;
+	margin-bottom: 0px;
+}

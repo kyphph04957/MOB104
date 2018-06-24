@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.fa-trash-o {
+	font-size: 1.5em !important;
+}
+.cart-img-product {
+	width: 15%;
+}
+.row {
+	margin: 0;
+}
+td {
+	display: table-cell !important;
+	vertical-align: inherit !important;
+}
+
+th{
+	display: table-cell !important;
+	vertical-align: inherit !important;
+}
+
+.fa-trash-o:hover{
+	cursor: pointer;
+	color: red;
+}

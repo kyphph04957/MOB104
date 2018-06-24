@@ -1,0 +1,195 @@
+@charset "utf-8";
+/* CSS Document */
+.product-name{
+	font-weight: bold;
+	font-size: 30px;
+}
+.banner{
+	padding: 0px 2px 10px;	
+}
+.product-sides{
+	width: 45%;
+	margin: auto;
+}
+.sides{
+	border: 1px solid #928B8B;
+	list-style: none;
+	padding: 0px;
+	margin: 3px;
+}
+.prd-price {
+	font-weight: bold;
+	color: red;
+	font-size: 30px;
+}
+
+.buy-product {
+	font-weight: bold;
+	margin-bottom: 20%;
+}
+
+.product-color:hover {
+	cursor: pointer;
+}
+.introduction{
+	font-weight: bold;
+	font-size: 24px;
+}
+
+
+.properties {
+	font-size: 17px;
+	font-weight: bold;
+	line-height: 47px;
+}
+
+.pick-color{
+	width: 35px !important;
+	margin-left: 15px; 
+}
+
+.pick-color:hover{
+background: #007bff;
+	border-radius: 5px;
+}
+
+.pcolor{padding: 0 !important;}
+
+.account{
+    background-color: #53c8e7;
+    height: 50px;
+    line-height: 47px;
+}
+
+.account i{
+    margin-left: 15px;
+    font-size: 50px;
+}
+
+.account a{
+    font-weight: bold;
+}
+
+.dn{
+    color: #000000;
+    margin-left: 15px;
+}
+
+.dk{
+    color: #ce0808;
+    font-style: italic;
+}
+
+.dn:hover{
+    color: #000000;
+}
+
+.dk:hover{
+    color: #ce0808;
+}
+
+.modal-title{
+    text-transform: uppercase;
+}
+
+.header{
+    height: 100px;
+}
+
+.logo img{
+    height: 96px;
+    margin-top: 2px;
+}
+
+.hotline{
+    margin-top: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.cart a{
+    color: #000000;
+    font-weight: bold;
+}
+
+.cart a i{
+    font-size: 30px;
+    margin-top: 23px;
+}
+
+.cart a span{
+    margin-left: 5px;
+    text-transform: uppercase;
+}
+
+.menu{
+    height: 50px;
+    background-color: #f3f3f3;
+}
+
+.menu .nav-item{
+    width: 190px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.menu .nav-item:hover a{
+    text-decoration: underline;
+}
+
+.menu .nav-link{
+    font-size: 20px;
+}
+
+.menu .nav-link i{
+    font-size: 30px;
+    margin: 0;
+}
+
+.footer{
+    height: 150px;
+    background-color: #53c8e7;
+}
+
+.logo-footer img{
+    height: 120px;
+    margin-top: 15px;
+}
+
+.info-footer{
+    margin-top: 25px;
+}
+
+.hotline-footer i{
+    font-size: 50px;
+    margin-top: 57px;
+}
+
+.hotline-footer span{
+    margin-left: 3px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #000000;
+}
+.img-sides {
+	width: 33%;
+	float: left;
+}
+.buy{
+	text-align:center;
+	width: 100px;
+	line-height: 40px;
+	background: #f80;
+
+}
+
+.buy a{
+		color: #fff ;
+}
+.buy:hover a{
+	color: #000;
+	text-decoration: none;
+}
+.th{width: 100%}

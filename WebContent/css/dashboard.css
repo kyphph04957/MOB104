@@ -1,0 +1,82 @@
+@charset "UTF-8";
+table {
+    width: 100%;
+}
+
+thead, tbody, tr, td, th { display: block; }
+
+tr:after {
+content: ' ';
+display: block;
+visibility: hidden;
+clear: both;
+}
+
+tbody {
+height: 670px;
+overflow-y: auto;
+}
+
+tbody td, thead th {
+float: left;
+}
+
+th{
+    text-align: center;
+}
+
+.table-purchaseid{
+    text-align: center;
+    width: 10.5%;
+}
+
+.table-customername{
+    width: 15.8%;
+}
+
+.table-address{
+    width: 33%;
+}
+
+.table-phone{
+    width: 11.5%;
+}
+
+.table-status{
+    width: 14.5%;
+}
+
+.table-purchasedetail{
+    text-align: center;
+    width: 14.5%;
+}
+
+.table-productid{
+    width: 14.5%;
+}
+
+.table-productname{
+    width: 27%;
+}
+
+.table-productprice{
+    width: 12.8%;
+}
+
+.table-productbrand{
+    width: 12.7%;
+}
+
+.table-productamount{
+	text-align:center;
+    width: 9.5%;
+}
+.table-productcolor{
+    text-align: center;
+    width: 8%;
+}
+
+.table-productdetail{
+    text-align: center;
+    width: 15%;
+}
